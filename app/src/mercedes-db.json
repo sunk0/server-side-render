@@ -1,0 +1,27 @@
+{
+    "items": [{
+         "id": 1,
+         "model": "MERDJAK 1",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+         "img":"/mercedes/1.jpg"
+     },
+     {
+         "id": 2,
+         "model": "MERDJAK 2",
+         "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accus",
+         "img": "/mercedes/2.jpg"
+     },
+     {
+         "id": 3,
+         "model": "MERDJAK 3",
+         "description": "dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, ",
+         "img": "/mercedes/3.jpg"
+     },
+     {
+        "id": 4,
+        "model": "MERDJAK 4",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui ",
+        "img": "/mercedes/4.jpg"
+    }
+    ]
+ }

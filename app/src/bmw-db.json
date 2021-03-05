@@ -1,0 +1,21 @@
+{
+    "items": [{
+         "id": 1,
+         "model": "BMW e60",
+         "description": "NA ICO KOLATA",
+         "img":"/bmw/1.jpg"
+     },
+     {
+         "id": 2,
+         "model": "future car",
+         "description": "NA ICO SLEDVA6TATA KOLA",
+         "img": "/bmw/2.jpg"
+     },
+     {
+         "id": 3,
+         "model": "e46",
+         "description": "ZA DECATA",
+         "img": "/bmw/3.jpg"
+     }
+    ]
+ }
